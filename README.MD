@@ -1,6 +1,6 @@
-Desigualdade e Resultados Econômicos
+# Desigualdade e Resultados Econômicos
 
-**Subtítulo:** Analisando 60 anos de dados do Banco Mundial para revelar a relação real entre riqueza nacional e desigualdade de renda.  
+Analisando 60 anos de dados do Banco Mundial para revelar a relação real entre riqueza nacional e desigualdade de renda.  
 
 ## 📌 Visão Geral
 
